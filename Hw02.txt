@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main() 
+{
+  string name ="Retag";
+  int ID=223753;
+  cout<<"My neme is  "<<name<<endl;
+ 
+  cout<<"My ID is "<<ID<<endl;
+  
+  
+return 0;
+}
